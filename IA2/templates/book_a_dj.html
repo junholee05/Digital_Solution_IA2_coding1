@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+  border-right: 1px solid #bbb;
+}
+
+li:last-child {
+  border-right: 1px solid #bbb;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+</style>
+</head>
+
+<body>
+<div class="header">
+  <h1>Northside DJ</h1>
+
+</div>
+
+<ul>
+  <li><a class="active" href="/book_a_dj">Book a DJ</a></li>
+  <li><a href="/find_my_event">Find My Event</a></li>
+  <li><a href="/find_a_song">Find a Song</a></li>
+  <li><a href="logout.html">Logout</a></li>
+</ul>
+
+</body>
+</html>
+
+<h2>Book a DJ form</h2>
+
+<label for = 'party_type'> Party Type </label>
+<br>
+<select name = 'party_type' id="party_type" required>
+  <option value ='wedding'>wedding</option>
+  <option value = 'birthday'> birthday </option>
+  <option value = 'house'> house party </option>
+  <option value = 'school'> school formal </option>
+</select>
+
+<br>
+<br>
+Party Date
+<br>
+<input type="date" id="date" required>
+
+<br>
+<br>
+<label for = 'time'>Start Time </label>
+<br>
+<input type = 'time' id="time" name="time" required>
+
+<br>
+<br>
+<label for = 'time'>End Time </label>
+<br>
+<input type = 'time' id="time" name="time" required>
+
+<br>
+<br>
+<label for="location">Location</label>
+<br>
+        <input type="location" id="location" name="location" required>
+
+<br>
+<br>
+<button>Submit</button>
+
+

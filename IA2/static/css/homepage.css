@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Homepage</title>
+  <style>
+    /* Basic styling */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    /* Header */
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    /* Navigation */
+    nav {
+      background-color: #f1f1f1;
+      padding: 10px;
+      text-align: center;
+    }
+
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    nav ul li {
+      display: inline;
+      margin-right: 10px;
+    }
+
+    nav ul li a {
+      color: #333;
+      text-decoration: none;
+      padding: 5px 10px;
+    }
+
+    /* Main content */
+    .content {
+      margin: 20px;
+      text-align: center;
+    }
+
+    h1 {
+      color: #333;
+    }
+
+    /* Footer */
+    footer {
+      background-color: #f1f1f1;
+      color: #333;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to our Homepage</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#">Book a DJ</a></li>
+      <li><a href="#">Find My Event</a></li>
+      <li><a href="#">Find a Song</a></li>
+      <li><a href="#">Logout</a></li><!DOCTYPE html>
+<html>
+<head>
+  <title>Homepage</title>
+  <style>
+    /* Basic styling */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    /* Header */
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    /* Navigation */
+    nav {
+      background-color: #f1f1f1;
+      padding: 10px;
+      text-align: center;
+    }
+
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    nav ul li {
+      display: inline;
+      margin-right: 10px;
+    }
+
+    nav ul li a {
+      color: #333;
+      text-decoration: none;
+      padding: 5px 10px;
+    }
+
+    /* Main content */
+    .content {
+      margin: 20px;
+      text-align: center;
+    }
+
+    h1 {
+      color: #333;
+    }
+
+    /* Footer */
+    footer {
+      background-color: #f1f1f1;
+      color: #333;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to our Homepage</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#">Book a DJ</a></li>
+      <li><a href="#">Find My Event</a></li>
+      <li><a href="#">Find a Song</a></li>
+      <li><a href="#">Logout</a></li>
+    </ul>
+  </nav>
+
+  <div class="content">
+    <h1>Homepage Content</h1>
+    <p>This is the main content of your homepage.</p>
+  </div>
+
+  <footer>
+    &copy; 2023 Your Website. All rights reserved.
+  </footer>
+</body>
+</html>
+    </ul>
+  </nav>
+
+  <div class="content">
+    <h1>Homepage Content</h1>
+    <p>This is the main content of your homepage.</p>
+  </div>
+
+  <footer>
+    &copy; 2023 Your Website. All rights reserved.
+  </footer>
+</body>
+</html>
